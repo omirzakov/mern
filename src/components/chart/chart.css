@@ -1,0 +1,20 @@
+.chart {
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 0px 0px 8px 0px rgba(34, 60, 80, 0.2);
+
+}
+
+.chartTitle {
+    margin-bottom: 20px;
+}
+
+.chartUserDetail {
+    border: 1px solid #62A0CD;
+    border-radius: 4px;
+}
+
+.chartUserDetail h4 {
+    margin: 0 0 20px 0;
+    padding: 0;
+}
